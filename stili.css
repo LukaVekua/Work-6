@@ -1,0 +1,143 @@
+.witeli-otkutxedi {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    position: relative;
+    left: 700px;
+    top: 295px;
+}
+
+.lurji-otkutxedi {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: relative;
+    left: 755px;
+    top: 245px;
+}
+
+.mwvane-otkutxedi {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    position: relative;
+    left: 700px;
+    top: 250px;
+}
+
+.yviteli-otkutxedi {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    position:relative;
+    left: 755px;
+    top: 200px;
+}
+
+.qveda1{
+    position:relative;
+    background-color:skyblue;
+    top:205px;
+    left:645px;
+    width:215px;
+    height:50px;
+}
+
+.qveda2{
+    position:relative;
+    background-color:skyblue;
+    top:210px;
+    left:590px;
+    width:325px;
+    height:50px;
+}
+
+.qveda3{
+    position:relative;
+    background-color:skyblue;
+    top:215px;
+    left:535px;
+    width:435px;
+    height:50px;
+}
+
+.zeda1{
+    position:relative;
+    background-color:skyblue;
+    width:215px;
+    height:50px;
+    top:-110px;
+    left:645px;
+    height:50px;
+}
+
+.zeda2{
+    position:relative;
+    background-color:skyblue;
+    height:50px;
+    top:-215px;
+    left:590px;
+    width:325px;
+}
+
+.zeda3{
+    position:relative;
+    background-color:skyblue;
+    top:-320px;
+    left:535px;
+    width:435px;
+    height:50px;
+}
+
+.marcxena1{
+    width:50px;
+    height:105px;
+    position:relative;
+    background-color:brown;
+    left:645px;
+    bottom:205px;
+}
+
+.marcxena2{
+    width:50px;
+    height:215px;
+    position:relative;
+    background-color:brown;
+    left:590px;
+    bottom:365px;
+}
+
+.marcxena3{
+    width:50px;
+    height:325px;
+    position:relative;
+    background-color:brown;
+    left:535px;
+    bottom:635px;
+}
+
+.marjvena1{
+    width:50px;
+    height:105px;
+    position:relative;
+    background-color:brown;
+    left:810px;
+    bottom:850px;
+}
+
+.marjvena2{
+    width:50px;
+    height:215px;
+    position:relative;
+    background-color:brown;
+    left:865px;
+    bottom:1010px;
+}
+.marjvena3{
+    width:50px;
+    height:325px;
+    position:relative;
+    background-color:brown;
+    left:920px;
+    bottom:1280px;
+}

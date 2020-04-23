@@ -1,0 +1,99 @@
+.container {
+    width: 1050px;
+    height: 500px;
+    border: 2px black;
+    position: relative;
+    overflow: visible;
+    background-color: silver;
+    margin: auto;
+}
+
+.suratebiN23 {
+    position: relative;
+    top: 128px;
+}
+
+.suratiN4 {
+    position: relative;
+    bottom: 197px;
+    left: 178px;
+}
+
+.patara-marcxena-n1 {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    bottom: 175px;
+    left: 40px;
+    z-index: 0;
+}
+
+.patara-marcxena-n2 {
+    width: 150px;
+    height: 150px;
+    z-index: 0;
+    position: relative;
+    bottom: 270px;
+    left: 70px;
+}
+
+.patara-marcxena-n3 {
+    width: 150px;
+    height: 150px;
+    z-index: 1;
+    position: relative;
+    bottom: 55px;
+    right:210px;
+}
+
+.patara-marcxena-n4 {
+    width: 150px;
+    height: 150px;
+    z-index: 2;
+    position: relative;
+    top:30px;
+    right:-15px;
+
+}
+
+.patara-marjvena-n4{
+    width:150px;
+    height:150px;
+    z-index:0;
+    position:relative;
+    bottom:330px;
+    left:170px;
+
+}
+
+.patara-marjvena-n1{
+    width:150px;
+    height:150px;
+    z-index:1;
+    position:relative;
+    left:150px;
+    bottom:123px;
+    
+}
+
+.patara-marjvena-n3{
+    width:150px;
+    height:150px;
+    z-index:0;
+    position:relative;
+    left:600px;
+    bottom:430px;
+    
+
+}
+
+.patara-marjvena-n2{
+    width:150px;
+    height:150px;
+    z-index:0;
+    position:relative;
+    left:420px;
+    bottom:370px;
+    
+}
+

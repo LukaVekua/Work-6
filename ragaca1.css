@@ -1,0 +1,47 @@
+body{
+    height: 1500px;
+ }
+ 
+ 
+ div{
+    width: 300px;
+    height: 150px;
+    border: solid 3px green;
+ }
+ 
+ .div1{
+    background-color: gray;
+    /* top:  */
+    /* left: */
+    /* right:  */
+    /* bottom:  */
+    /* position: relative;
+    bottom: 75px;
+    right: -100px; */
+ }
+ 
+ .div2{
+    background-color: greenyellow;
+    width: 450px;
+    height: 250px;
+    margin: auto;
+    /* position: absolute; */
+    position: relative;
+ }
+ 
+ .box{
+    width: 100px;
+    height: 100px;
+    background-color: indianred;
+    position: absolute;
+    top:40px;
+    left: 120px;
+ }
+ 
+ .div3{
+    background-color: khaki;
+    /* position: fixed; */
+    position: sticky;
+    width: 100%;
+    top:-20px;
+ }

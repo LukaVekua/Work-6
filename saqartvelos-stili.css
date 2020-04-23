@@ -1,0 +1,128 @@
+.mwvaneN1 {
+    width: 1400px;
+    height: 200px;
+    background-color: green;
+}
+
+.txt {
+    position: relative;
+    top: 70px;
+    color: white;
+    font-size: 40px;
+}
+
+.qartli {
+    width: 250px;
+    height: 50px;
+    background-color: rgb(0, 191, 255);
+    position: relative;
+    left: 25px;
+    top: 25px;
+
+}
+
+.qartli-txt {
+    color: white;
+    font-size: 25px;
+}
+
+.kaxeti {
+    width: 250px;
+    height: 50px;
+    background-color: rgb(0, 191, 255);
+    position: relative;
+    left: 25px;
+    top: 30px;
+
+}
+
+.kaxeti-txt {
+    color: white;
+    font-size: 25px;
+
+
+}
+
+.guria {
+    width: 250px;
+    height: 50px;
+    background-color: rgb(0, 191, 255);
+    position: relative;
+    left: 25px;
+    top: 40px;
+
+}
+
+.guria-txt {
+    color: white;
+    font-size: 25px;
+
+
+}
+
+.imereti {
+    width: 250px;
+    height: 50px;
+    background-color: rgb(0, 191, 255);
+    position: relative;
+    left: 25px;
+    top: 35px;
+
+
+}
+
+.imereti-txt {
+    color: white;
+    font-size: 25px;
+
+
+
+}
+
+.samegrelo {
+    width: 250px;
+    height: 50px;
+    background-color: rgb(0, 191, 255);
+    position: relative;
+    left: 25px;
+    top: 45px;
+
+
+}
+
+.samegrelo-txt {
+    color: white;
+    font-size: 25px;
+
+}
+
+.saqartvelo-txt{
+    position:relative;
+    left:320px;
+    bottom:200px;
+    font-size:40px;
+    font-weight:bold;
+}
+
+.DIDI-TXT{
+    position:relative;
+    left:320px;
+    bottom:180px;
+    font-size:20px;
+}
+
+.mwvaneN2{
+    width:1400px;
+    height:150px;
+    background-color:green;
+    position:relative;
+    bottom:100px;
+}
+
+.txt2{
+    color:white;
+    font-size:25px;
+    position:relative;
+    left:600px;
+    top:50px;
+}
